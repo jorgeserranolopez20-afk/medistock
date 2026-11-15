@@ -1,0 +1,6 @@
+{
+  "name": "MEDISTOCK",
+  "description": "Plataforma distribuidora de insumos médicos B2B/B2C",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
